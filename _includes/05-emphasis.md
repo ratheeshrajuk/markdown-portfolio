@@ -1,11 +1,7 @@
 <html>
-  <body>
-    *This text will be italic*
-_This will also be italic_
+      <body>
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
-  </body>
-  </html>
+        This **word** is bold. This <em>word</em> is italic.
+      </body>
+ </html>
